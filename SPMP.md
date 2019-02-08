@@ -27,5 +27,11 @@
 			3.4 Mekanisme Monitoring<br>
 			3.5 Perencanaan Staff<br>
 		</ol>
+	<li> Proses Teknis</li>
+		<ol>
+			4.1 Moteda, tool, dan teknik<br>
+			4.2 Dokumentasi perangkat lunak<br>
+			4.3 Fungsi-fungsi pendukung proyek<br>
+		</ol>
 </ol>
 </b>
