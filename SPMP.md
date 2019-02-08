@@ -29,7 +29,7 @@
 		</ol>
 	<li> Proses Teknis</li>
 		<ol>
-			4.1 Moteda, tool, dan teknik<br>
+			4.1 Moteda, tool, dan tekniks<br>
 			4.2 Dokumentasi perangkat lunak<br>
 			4.3 Fungsi-fungsi pendukung proyek<br>
 		</ol>
