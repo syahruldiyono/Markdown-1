@@ -33,5 +33,13 @@
 			4.2 Dokumentasi perangkat lunak<br>
 			4.3 Fungsi-fungsi pendukung proyek<br>
 		</ol>
+	<li> Paket Pekerjaan,Jadwal dan Budget</li>
+		<ol>
+			5.1 Paket Pekerjaan<br>
+			5.2 Ketergantungan / Keterkaitan<br>
+			5.3 Kebutuhan - Kebutuhan Sumber Daya<br>
+			5.4 Alokasi Budjet dan Sumber Daya<br>
+			5.5 Jadwal<br>
+		</ol>
 </ol>
 </b>
