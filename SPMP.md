@@ -143,4 +143,30 @@ rapat koordinasi mingguan, dll.<br>
 			</ol>
 	<br>
 
+<b>
+	<li> Proses Teknis</li>
+	<b>
+		<ol>
+			4.1 Moteda, tool, dan tekniks<br>
+				<ol>
+					Metoda yang kami gunakan yaitu dengan cara menginputkan data yang digunakan 
+					sebagai indikator untuk menentukan nilai yang diharapkan. Kemungkinan Bahasa yang 
+					kami gunakan adalah Bahasa pemograman PHP, Tools yang digunakan adalah Sublime 
+					text, database Mysql, Laravel , Mysql Connector Database untuk menghubungkan 
+					databse dengan Program yang kami buat. Teknik yang digunakan adalah pemrograman 
+					berbasis objek.  <br>
+				</ol>
+			4.2 Dokumentasi perangkat lunak<br>
+				<ol> 
+					Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional 
+					IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh 
+					spektrum siklus hidup perangkat lunak.   <br>
+				</ol>
+			4.3 Fungsi-fungsi pendukung proyek<br>
+				<ol>
+					Kami membutuhkan technical support di bagian desain project. Kami membutuhkan 
+					technical support di bagian coding program sebanyak 2-3 orang. Kami membutuhkan 
+					specialist di bagian database sebanyak 1-2 orang.  <br>
+				</ol>
+			</ol>
 </ol>
