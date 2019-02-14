@@ -145,7 +145,7 @@ rapat koordinasi mingguan, dll.<br>
 
 <b>
 	<li> Proses Teknis</li>
-	<b>
+	</b>
 		<ol>
 			4.1 Moteda, tool, dan tekniks<br>
 				<ol>
