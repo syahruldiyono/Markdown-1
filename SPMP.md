@@ -100,26 +100,27 @@
 					c. Analisis : Menganalisa atau mengoreksi fungsi program. <br>
 					d. Database : Membuat database, flowhart dan ERD dari projek yang sedang dibuat. <br>
 				</ol>
+		</ol>
 		<b>
 	<li>Proses Majaerial</li>
 		</b>
 		<ol>
 			 3.1 Tujuan dan Prioritas Manajemen<br>
-			 $&nbsp;3.1.1 Prioritas Jadwal<br>
-			 $&nbsp;$&nbsp;Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen projek, jadwal kegiatan, struktur pembuatan projek dan organisasi.<br>
-			 $&nbsp;3.1.2 Budget<br>
-			 $&nbsp;$&nbsp;Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br>
-			 $&nbsp;3.1.3 Kemampuan (Kualitas dan reusability)<br>
-			 $&nbsp;$&nbsp;Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek,juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br>
+			 &nbsp;3.1.1 Prioritas Jadwal<br>
+			 &nbsp;&nbsp;Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen projek, jadwal kegiatan, struktur pembuatan projek dan organisasi.<br>
+			 &nbsp;3.1.2 Budget<br>
+			 &nbsp;&nbsp;Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br>
+			 &nbsp;3.1.3 Kemampuan (Kualitas dan reusability)<br>
+			 &nbsp;&nbsp;Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek,juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br>
 			 3.2 Asumsi,Keterkaitan,dan Batasan<br> 
-			 $&nbsp;3.2.1 Asumsi<br>
-			 $&nbsp;$&nbsp;Adapun aplikasi yang sejenis aplikasi manajemen berbasis dekstop, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.<br>
-			 $&nbsp;3.2.2 Keterkaitan dan Batasan<br>
-			 $&nbsp;$&nbsp;Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online.<br>
+			 &nbsp;3.2.1 Asumsi<br>
+			 &nbsp;&nbsp;Adapun aplikasi yang sejenis aplikasi manajemen berbasis dekstop, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.<br>
+			 &nbsp;3.2.2 Keterkaitan dan Batasan<br>
+			 &nbsp;&nbsp;Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online.<br>
 			 3.3 Manajemen Resiko<br>
-			 $&nbsp;3.3.1 Dampak Negatif<br>
+			 &nbsp;3.3.1 Dampak Negatif<br>
 			 3.4 Mekanisme Monitoring dan Kontroling <br>
-			 $&nbsp;$&nbsp;Tuliskan dan jelaskan mekanisme monitoring dan kontroling yang digunakan. Misala:
+			 &nbsp;&nbsp;Tuliskan dan jelaskan mekanisme monitoring dan kontroling yang digunakan. Misala:
 rapat koordinasi mingguan, dll.<br>
 		</ol><br>
 
