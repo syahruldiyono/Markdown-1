@@ -46,7 +46,7 @@
 
 
 <ol>
-	<li>**Pendahuluan**</li>
+	<li><b>Pendahuluan</li>
 		<ol>
 			 1.1 Gambaran Proyek<br>
 			 <ol> Program Aplikasi Toko sparepart dan aksesoris handphone (Toko Pandawa Solution) merupakan salah satu jenis usaha dibidang elektronik yang banyak dicari oleh pengguna handphone. Beberapa permasalahan yang ada di toko ini adalah pendataan barang yang masih manual hanya menggunakan excel. Sehingga untuk menyesuaikan barang antar toko cabang membutuhkan waktu. Tujuan dari proyek ini, yaitu menghasilkan aplikasi pendataan barang secara online. Selain itu pada aplikasi ini ditambahkan fitur jual online dan transaksi, dimana customer bisa membeli aksesoris atau spare part handphone secara online tanpa harus datang ke tokonya langsung. <br></ol>
@@ -61,5 +61,40 @@
              <ol>Singkatan Arti kata IEEE The International Institute of Electronic and Electrical Engineers 
              IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses kontrol dari lapisan data-link dari standar Ethernet berkabel.  <br></ol>
 		</ol>
-	
+	<li><b> Organisasi Proyek </b></li>
+		<ol>
+			2.1 Model proses <br>
+				<ol>
+					&nsbp;Dalam proyek yang kami buat kita menggunakan model proses spiral <br>
+				</ol>
+			2.2 Struktur organisasi <br>
+				<ol>
+					&nsbp;Project Manajer<br>
+					&nsbp;Programmer<br>
+					&nsbp;Database <br>
+					&nsbp;Analisis <br>
+				</ol>
+			2.3 Batasan dan antarmuka organisasi <br>
+				<ol>
+					&nsbp;2.3.1. Project Manager ke Anggota<br>
+						<ol>
+							&nsbp;&nsbp;Dimana project manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. <br>
+						</ol>
+					&nsbp;2.3.2. Analisis ke Programmer<br>
+						<ol>
+							&nsbp;&nsbp;Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer. <br>
+						</ol>
+					&nsbp;2.3.3. Database ke Programer<br>
+						<ol>
+							&nsbp;&nsbp;Bertugas untuk memberi rancangan database yang ada dalam projek dan akan dihubungkan melalui programnya.<br>
+						</ol>
+				</ol>
+			2.4 Lingkup tanggung jawab <br>
+				<ol>
+					&nsbp;a. Project Manager : Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat. <br>
+					&nsbp;b. Programmer : Membuat fungsi program projek yang sedang dibuat. <br>
+					&nsbp;c. Analisis : Menganalisa atau mengoreksi fungsi program. <br>
+					&nsbp;d. Database : Membuat database, flowhart dan ERD dari projek yang sedang dibuat. <br>
+				</ol>
+		
 </ol>
