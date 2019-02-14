@@ -169,4 +169,89 @@ rapat koordinasi mingguan, dll.<br>
 					specialist di bagian database sebanyak 1-2 orang.  <br>
 				</ol>
 			</ol>
-</ol>
+ <b><li> 
+		Paket Pekerjaan, Jadwal, Dan Budget 
+</li></b>
+		<ol>
+			5.1 Paket Pekerjaan <br>
+				<ol>
+				1. Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.<br>
+				2. Persiapan projek dan pengumpulan sumber daya yg di perlukan.<br>
+				3. Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.<br>
+				4. Melakukan perbaikan projek yang sudah dicek.<br>
+				5. Waktu pengerjaan dokumen-dokumen.<br>
+				6. Presentasi Proyek.<br>  
+				</ol>	
+			5.2 Ketergantungan dan Keterkaitan <br>
+				<ol>
+				Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
+				Project Manager	:<br> 
+				Tugas Project Managaer adalah untuk mengawasi anggota anggotanya Sehingga dalam pembuatan Proyek II bisa berjalan sebagaimana mestinya.<br> 
+				Programmer		:<br> 
+				Tugas programmer adalah untuk memprogram dan mengkoding program yang akan dibuat, supaya terlihat lebih menarik.<br>  
+				Sistem Analisis	:<br> 
+				Tugas Sistem Analisis adalah sebagai memberi suatau gambaran Proyek dan pengkodean pada Programmer.<br> 
+				Databaser :<br> 
+				Tugas Databaser adalah untuk membuat database yang dibutuhkan oleh programmer, sehingga dapat memudahkan programmer dalam pembuatan.<br>   
+			 	</ol>
+			5.3 Kebutuhan Sumber Daya<br> 
+				<ol>
+				Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (Empat) orang, dapat dilihat pada data berikut ini.<br>
+				5.3.1 Kebutuhan Sumber Daya Manusia<br>
+					<ol>
+					1. Syahrul Diyono&nbsp;&nbsp;Project Manager<br>
+					2. Muhammad Nopriansyah&nbsp;&nbsp;Programmer<br>
+					3. Ninda Auliya&nbsp;&nbsp;Databaser<br>
+					4. Umi Chabibah&nbsp;&nbsp;Sistem Analis<br>
+					</ol>
+				5.3.2 Kebutuhan Sumber Daya Software<br>
+					<ol>
+				 	Sistem Operasi&nbsp;&nbsp;: Windows 8.1<br> 
+					Bahasa Pemrograman&nbsp;&nbsp;: PHP<br> 
+					Software Pengolah&nbsp;&nbsp;: Sublime Text<br> 
+					Database Engine&nbsp;&nbsp;: Xampp<br> 
+					</ol>
+			 	5.3.3 Kebutuhan Sumber Daya Hardware <br>  
+			 		<ol>
+					1. Laptop<br> 
+					2. Maouse<br> 
+					3. Hardisk<br> 
+					</ol>
+				</ol>
+			5.4 Alokasi Budget dan Sumber Daya<br>
+				<ol>
+				Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada data dibawah ini.<br>
+					5.4.1 Estimasi Biaya Software<br>
+					<ol>
+						Windows 7&nbsp;: Rp. 1.100.000<br>
+						Xampp&nbsp;: Rp. 500.000<br>
+					</ol>	
+					5.4.2 Estimasi Biaya Hardware<br>
+					<ol>
+						Laptop		: Rp. 7.000.000
+					 	Hardisk 	: Rp. 500.000
+					 	Mouse		: Rp. 50.000
+					</ol> 	
+			 	</ol>
+			5.5 Jadwal<br>
+			<ol>
+				Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:<br>
+				<ol>
+				1. Persiapan<br>
+				&nbsp;Pada tahap ini kami mempersiapkan diri dengan memahami yang akan di buat.<br>
+				2. Requirement<br>
+				&nbsp;Selanjutnya mengumpulkan informasi dan referensi yang berhubungan dengan proyek kami.<br>
+				3. Analisis dan Resiko<br>
+				&nbsp;Kami mengalisa kemungkinan-kemungkinan yang akan terjadi pada proyek ini.<br>
+				4. Implementasi<br>
+				&nbsp;Pada proses ini kami memulai proyek dengan mengimplementasikan bahan-bahan yang telah kami kumpulkan sebelumnya.<br>
+				5. Testing dan Pemeliharan<br>
+				&nbsp;Kemudian kami melakukan testing terhadap proyek kami agar tidak ada kesalahan dan melakukan pemeliharaan dengan melakukan pengujian terhadap system informasi apakah sudah memenuhi kebutuhan user.<br>
+				6. Evaluasi<br>
+				&nbsp;Pada tahap ini kami mengevelauasi proyek apakah sudah memenuhi kebutuhan atau belum.<br>
+				</ol>
+			</ol>
+		</ol>
+	</ol>
+
+ 
