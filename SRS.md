@@ -31,5 +31,5 @@
 			2.6 Kebutuhan-kebutuhan penyeimbang
 		</ol>
 	<li>Kebutuhan lain yang spesifik</li>
-	<li>Informasi pendukung<li>
+	<li>Informasi pendukung</li>
 </ol>
