@@ -7,6 +7,7 @@
 	<li>Pendahuluan</li>
 		<ol>
 			 1.1 Gambaran Proyek<br>
+			 	Jelaskan prioritas jadwal, budget, dan kemampuan (kualitas dan reusability).<br>
 			 1.2 Dokumen-dokumen<br> 
 			 1.3 Evolusi SPMP<br>
 			 1.4 Material acuan<br>
