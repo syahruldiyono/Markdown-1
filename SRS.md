@@ -23,8 +23,13 @@
 				2.1.5 Antarmuka komunikasi<br>
 				2.1.6 Batasan-batasan memori<br>
 				2.1.7 Operasi-operasi<br>
-				2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br>
+				2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br></ol>
 			2.2 Fungsi-fungsi produk<br>
-			</ol>
+			2.3 Karakteristik pengguna<br>
+			2.4 Batasan-batasan<br>
+			2.5 Asumsi-asumsi dan ketergantungan<br>
+			2.6 Kebutuhan-kebutuhan penyeimbang
 		</ol>
+	<li>Kebutuhan lain yang spesifik</li>
+	<li>Informasi pendukung<li>
 </ol>
