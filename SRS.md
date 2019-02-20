@@ -79,8 +79,8 @@
 		1.5.1 Bab 1 Pendahuluan, merupakan pengantar dokumen  SKPL yang brisi tujuan penulisan dokumen, lingkup masalah pengembangan perangkat lunak, juga memuat definisi, akronim dan istilah yang digunakan  serta deskripsi umum dokumen yang merupakan ikhtisar dokumen SKPL.<br>
 		1.5.2 Bab 2 Deskripsi Global Perangkat Lunak, mendefinisikan perspektif produk perangkat lunak serta asumsi dan ketergantungan yang digunakan dalam pengembangan aplikasi penjualan Aksesoris dan Sparepart Handphone.<br>
 		</ol>
-	</ol><br>
-<b><li>Gambaran Umum</li></b>
+	</ol></ol><br>
+<b><li>Gambaran Umum</li><br></b>
 	<b>2.1 Perspektif produk</b> 
 	<ol>Produk ini akan dijalankan oleh admin, pemilik, pegawai dan user yang
 	memiliki koneksi ke internet. Penggunaan sistem terbagi tiga yaitu antar
@@ -168,7 +168,7 @@
 		2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.<br>
 		</ol><br>
 <b>
-<li>Kebutuhan lain yang spesifik</li>
+<li>Kebutuhan lain yang spesifik</li><br>
 </b>
 	<ol>
 		<b>3.1. Kebutuhan Fungsional</b><br>
