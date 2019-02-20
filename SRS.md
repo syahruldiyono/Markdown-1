@@ -176,7 +176,7 @@ Dengan adanya Aplikasi ini.<br>
 	<ol>
 		Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran fungsi-fungsi utama dapat didefinisikan pada Tabel 1.<br>
 		Tabel 1. Kebutuhan Non Fungsional<br>
-		<img src="tabel1.JPG" hspace="20" vspace="10" align="centre" width="100" height="50">
+		<img src="tabel1.JPG" align="centre" width="100" height="50">
 	</ol>
 	3.3. Kebutuhan Antar Muka<br>
 	<ol>
