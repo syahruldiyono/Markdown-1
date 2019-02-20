@@ -34,22 +34,22 @@
 	<li>Informasi pendukung</li>
 </ol></b>
 <ol>
-<b> <li> Pendahuluan</li> </b>
-
-<b>1.1	Tujuan<br></b>
+	<b>
+	<li> Pendahuluan</li> 
+	</b><br>
+<b>1.1	Tujuan</b><br>
 	<ol>Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS)  untuk Sistem Penjualan Aksesoris dan Sparepart Handphone.Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detil dan menyeluruh.</ol><br>
 	<ol>Pengguna dari dokumen ini adalah pengembang perangkat lunak sistem Penjualan Aksesoris dan Sparepart Handphone pengguna (user) dari perangkat lunak atau personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi pada saat proses pengembangan  perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SKPL ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak Penjualan Aksesoris dan Sparepart Handphone.</ol><br>
 <b>1.2	Lingkup Masalah<br></b>
 	<ol>Perangkat lunak yang akan dikembangkan adalah perangkat lunak Penjualan Aksesoris dan Sparepart Handphone, yaitu merupakan perangkat lunak yang digunakan untuk mempermudah proses administrasi dan penjualan Aksesoris dan Sparepart Handphone. Aplikasi Aksesoris dan Sparepart Handphone ini dapat melakukan hal-hal berikut ini :</ol><br>
-<ol>
-1.2.1 Fasilitas Login untuk admin, dan karyawan/kasir untuk menghindari penyalahgunaan hak akses.<br>
-1.2.2 Menampilkan daftar Aksesoris dan Sparepart Handphone yang tersedia.<br>
-1.2.3 Melayani penjualan Aksesoris dan Sparepart Handphone secara onlineberbasis web dan wap, dan  juga  transaksi dapat dilakukan dari manapun dan kapanpun.<br>
-1.2.4 Admin dan karyawan dapat melihat rekapitulasi hasil penjualan
-Dengan adanya Aplikasi ini.<br>
-</ol><br>
+	<ol>
+	1.2.1 Fasilitas Login untuk admin, dan karyawan/kasir untuk menghindari penyalahgunaan hak akses.<br>
+	1.2.2 Menampilkan daftar Aksesoris dan Sparepart Handphone yang tersedia.<br>
+	1.2.3 Melayani penjualan Aksesoris dan Sparepart Handphone secara onlineberbasis web dan wap, dan  juga  transaksi dapat dilakukan dari manapun dan kapanpun.<br>
+	1.2.4 Admin dan karyawan dapat melihat rekapitulasi hasil penjualan
+	Dengan adanya Aplikasi ini.<br>
+	</ol><br>
 <b>1.3	Definisi, Akronim dan Singkatan</b><br>
-
    <ol>Istilah, Akronim dan Singkatan beserta Keterangannya :</ol><br>
  	<ol>
  	1. Admin Merupakan seseorang yang bertanggungjawab untuk perawatan sistem dan  serta bertanggungjawab terhadap operasional sistem.<br>
@@ -182,5 +182,6 @@ Dengan adanya Aplikasi ini.<br>
 	<ol>
 		Kebutuhan antarmuka dalam program ini antara lain adalah kebutuhan perangkat keras berupa <i>Personal Computer</i> berupa <i>Central Processing Unit(CPU)</i>,<i>mouse, keyboard, monitor,</i> dimana perangkat PC harus terhubung dengan jaringan internet. Sedangkan untuk kebutuhan perangkat lunak yang harus disediakan adalah berupa sebuah web <i>browser</i> seperti Internet Explorer, Mozilla Firefox, dan sebagainya untuk menjalankan aplikasi berbasis web.<br>
 	</ol>
+</ol>
 </ol>
 
