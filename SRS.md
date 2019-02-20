@@ -74,4 +74,87 @@ Dengan adanya Aplikasi ini.<br>
 	1.5.1 Bab 1 Pendahuluan, merupakan pengantar dokumen  SKPL yang brisi tujuan penulisan dokumen, lingkup masalah pengembangan perangkat lunak, juga memuat definisi, akronim dan istilah yang digunakan  serta deskripsi umum dokumen yang merupakan ikhtisar dokumen SKPL.<br>
 	1.5.2 Bab 2 Deskripsi Global Perangkat Lunak, mendefinisikan perspektif produk perangkat lunak serta asumsi dan ketergantungan yang digunakan dalam pengembangan aplikasi penjualan Aksesoris dan Sparepart Handphone.<br>
 	</ol><br>
+
+<b><li>Gambaran Umum</li></b>
+
+<b>2.1 Perspektif produk<br></b> 
+	<ol>Produk ini akan dijalankan oleh admin, pemilik, pegawai dan user yang
+	memiliki koneksi ke internet. Penggunaan sistem terbagi tiga yaitu antar
+	muka untuk user individu, antar muka untuk admin, dan antar muka untuk
+	Pegawai. Produk ini dapat berjalan pada platform atau sistem operasi 
+	apa saja yang mendukung aplikasi berbasis web.</ol><br> 
+		<ol>
+		2.1.1 Antarmuka sistem<br>  
+			  <ol>Dalam penggunaan, pengguna berinteraksi langsung dengan aplikasi melalui PC / Laptop.</ol><br>
+		2.1.2 Antarmuka pengguna<br>  
+			  <ol>Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash.Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam Aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.</ol><br>
+		2.1.3 Antarmuka perangkat keras<br>
+			  <ol>
+			  Perangkat keras yang dapat digunakan dalam perangkat lunak yang dibuat:<br>
+				1.	PC<br>
+				2.	Monitor VGA mempunyai resolusi minimal 8800 x 1200 pixel.<br>
+				3.	Keyboard dan mouse untuk kegiatan user.<br>
+				4.	Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer.</ol><br>
+		2.1.4 Antarmuka perangkat lunak<br>
+			  <ol>Perangkat lunak yang dibutuhkan untuk perpustakaan antara lain:<br>
+				1. Sistem Operasi Windows (XP,Vista,7,Server 2008) dll<br>
+				2. Untuk pengolahan database : MYSQL<br>
+				3. ntuk koneksi Database digunakan XAMPP</ol><br>
+		2.1.5 Antarmuka komunikasi<br>
+			  <ol>Proses komunikasi dalam sistem ini menggunakan jaringan lokal, dimana dikontrol oleh komputer server.<br>
+		2.1.6 Batasan-batasan memori</ol><br>
+			  <ol>Perangkat lunak hanya dijalankan di Windows (XP,vista, 7, 8, server 2008 dll).
+			  Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada pada saat ini tanpa adanya user.</ol><br>
+		2.1.7 Operasi-operasi<br>
+			  <ol>Perangkat lunak dapat dijalankan di PC atau Laptop manapun.</ol><br>
+		2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br>
+		</ol>
+<b>2.2 Fungsi-fungsi produk<br></b>
+	<ol>Perangkat Lunak Sistem penjualan sparepart dan aksesoris online berbasis website responsife ini mempunyai beberapa fungsi utama, 
+	antara lain:</ol><br>
+	<ol>
+		1. Memudahkan proses jual beli barang.<br>
+		2. Memudahkan user untuk menawarkan barang baru atau bekas yang dimiliki.<br>
+		3. Menyediakan informasi mengenai data barang secara akurat.<br>
+		4. Dapat memberikan penawaran khusus untuk user sesuai minat dan    kebutuhan user.<br>
+		5. Memberikan alternatif pembayaran yang lebih banyak.<br>
+	</ol>	
+<b>2.3 Karakteristik pengguna<br></b>
+	<ol>
+	Dalam sistem informasi ini, users yang terlibat adalah sebagai berikut:
+	</ol><br>
+		<ol>
+		2.3.2 Pemilik <br>
+			  <ol>
+			  Pemilik bisa memiliki banyak fungsi, sebagai pengelola stok barang,pengelola keuangan, Melihat Data Transaksi harian, dan pengelola sistem.
+			  </ol><br>
+		2.3.2 Admin<br>
+			  <ol>
+			  Admin bisa memiliki banyak fungsi, sebagai pengelola stok barang,pengelola keuangan, pengelola user, dan pengelola sistem.
+			  </ol><br>
+		2.3.3 User Individu<br>
+			  <ol>
+			  User Individu memiliki hak akses ke katalog yang disediakan
+			  admin dan hak akses katalog yang dimiliki User Pegawai. User
+			  Individu dapat memilih barang dan membeli barang. 
+			  </ol><br>
+		2.3.4 Pegawai<br>
+		      <ol>
+			  Pegawai mendapat suatu halaman dinamis dan halaman
+			  administrasi untuk mengelola katalog barang yang dimiliki, dan
+			  mengelola Pembelian terhadap barang yang dimilikinya oleh User Individu
+			  </ol><br>
+<b>2.4 Batasan-batasan<br></b>
+	<ol>
+	1. Untuk masalah pembayaran ditangani oleh pihak ketiga seperti,
+	   perusahaan kartu kredit, paypal dan bank.<br>
+	2. User yang berhak untuk mengakses sistem ini antara lain adalah admin,
+	   user individu,pegawai dan pemilik.<br>
+	</ol>   
+<b>2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br></b>
+	<ol>
+	1. User pengguna sistem informasi ini minimal tahu dan dapat
+	   mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
+	2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.<br>
+	</ol>	
 </ol>
