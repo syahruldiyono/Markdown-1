@@ -165,10 +165,9 @@
 		</ol>   
 	<b>2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br></b>
 		<ol>
-		1. User pengguna sistem informasi ini minimal tahu dan dapat
-		   mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
-		2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.<br>
-		</ol><br>
+		1. User pengguna sistem informasi ini minimal tahu dan dapat mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
+		2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.
+		</ol></ol><br>
 <b>
 <li>Kebutuhan lain yang spesifik</li><br>
 </b>
@@ -194,6 +193,4 @@
 			Kebutuhan antarmuka dalam program ini antara lain adalah kebutuhan perangkat keras berupa <i>Personal Computer</i> berupa <i>Central Processing Unit(CPU)</i>,<i>mouse, keyboard, monitor,</i> dimana perangkat PC harus terhubung dengan jaringan internet. Sedangkan untuk kebutuhan perangkat lunak yang harus disediakan adalah berupa sebuah web <i>browser</i> seperti Internet Explorer, Mozilla Firefox, dan sebagainya untuk menjalankan aplikasi berbasis web.<br>
 		</ol>
 	</ol>
-</ol>
-</ol>
 
