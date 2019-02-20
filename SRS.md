@@ -169,7 +169,6 @@
 		   mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
 		2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.<br>
 		</ol><br>
-		<ol>
 <b>
 <li>Kebutuhan lain yang spesifik</li><br>
 </b>
