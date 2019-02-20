@@ -38,7 +38,7 @@
 	<li> Pendahuluan</li> 
 	</b><br>
 
-<b>1.1	Tujuan</b><br>
+<b>1.1	Tujuan</b>
 	<ol>
 	Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS)  untuk Sistem Penjualan Aksesoris dan Sparepart Handphone.Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detil dan menyeluruh.<br>
 	Pengguna dari dokumen ini adalah pengembang perangkat lunak sistem Penjualan Aksesoris dan Sparepart Handphone pengguna (user) dari perangkat lunak atau personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi pada saat proses pengembangan  perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SKPL ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak Penjualan Aksesoris dan Sparepart Handphone.
@@ -99,14 +99,18 @@
 				1.	PC<br>
 				2.	Monitor VGA mempunyai resolusi minimal 8800 x 1200 pixel.<br>
 				3.	Keyboard dan mouse untuk kegiatan user.<br>
-				4.	Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer.</ol><br>
+				4.	Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer.
+			</ol>
 		2.1.4 Antarmuka perangkat lunak
 			  <ol>Perangkat lunak yang dibutuhkan untuk perpustakaan antara lain:<br>
 				1. Sistem Operasi Windows (XP,Vista,7,Server 2008) dll<br>
 				2. Untuk pengolahan database : MYSQL<br>
-				3. ntuk koneksi Database digunakan XAMPP</ol><br>
+				3. ntuk koneksi Database digunakan XAMPP
+			</ol>
 		2.1.5 Antarmuka komunikasi
-			  <ol>Proses komunikasi dalam sistem ini menggunakan jaringan lokal, dimana dikontrol oleh komputer server.</ol><br>
+			  <ol>
+			  Proses komunikasi dalam sistem ini menggunakan jaringan lokal, dimana dikontrol oleh komputer server.
+			  </ol>
 		2.1.6 Batasan-batasan memori
 			  <ol>Perangkat lunak hanya dijalankan di Windows (XP,vista, 7, 8, server 2008 dll).
 			  Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada pada saat ini tanpa adanya user.</ol>
@@ -136,7 +140,7 @@
 		2.3.2 Admin
 			  <ol>
 			  Admin bisa memiliki banyak fungsi, sebagai pengelola stok barang,pengelola keuangan, pengelola user, dan pengelola sistem.
-			  </ol><br>
+			  </ol>
 		2.3.3 User Individu
 			  <ol>
 			  User Individu memiliki hak akses ke katalog yang disediakan
@@ -163,13 +167,12 @@
 	1. User pengguna sistem informasi ini minimal tahu dan dapat
 	   mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
 	2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.<br>
-	</ol>	
-</ol>
+	</ol><br>
 <b>
 <li>Kebutuhan lain yang spesifik</li>
 </b>
 <ol>
-	3.1. Kebutuhan Fungsional<br>
+	<b>3.1. Kebutuhan Fungsional</b><br>
 	<ol>
 		Kebutuhan fungsional sistem ini terdiri atas beberaoa fungsi utama yang saling berhubungan dan mendukung satu sama lain, yang meliputi fungsi-fungsi sebagai berikut :<br>
 		1. Input barang dari <i>pelapak</i> dan admin.<br>
@@ -179,13 +182,13 @@
 		5. Kustomisasi penawaran untuk <i>user</i> individu sesuai dengan minat dan kebutuhan <i>user</i> individu.<br>
 		6. Akomodasi untuk <i>user</i> pelapak yang menjual barang dalam jumlah besar.<br>
 	</ol>
-	3.2. Kebutuhan Non Fungsional<br>
+	<b>3.2. Kebutuhan Non Fungsional</b><br>
 	<ol>
 		Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran fungsi-fungsi utama dapat didefinisikan pada Tabel 1.<br>
+		<img src="tabel1.JPG" align="centre" width="100" height="50"><br>
 		Tabel 1. Kebutuhan Non Fungsional<br>
-		<img src="tabel1.JPG" align="centre" width="100" height="50">
 	</ol>
-	3.3. Kebutuhan Antar Muka<br>
+	<b>3.3. Kebutuhan Antar Muka</b><br>
 	<ol>
 		Kebutuhan antarmuka dalam program ini antara lain adalah kebutuhan perangkat keras berupa <i>Personal Computer</i> berupa <i>Central Processing Unit(CPU)</i>,<i>mouse, keyboard, monitor,</i> dimana perangkat PC harus terhubung dengan jaringan internet. Sedangkan untuk kebutuhan perangkat lunak yang harus disediakan adalah berupa sebuah web <i>browser</i> seperti Internet Explorer, Mozilla Firefox, dan sebagainya untuk menjalankan aplikasi berbasis web.<br>
 	</ol>
