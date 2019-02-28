@@ -1,7 +1,8 @@
 <b>
 <h1>
 <i>SOFTWARE DESIGN DOCUMENT (SDD)</i>
-
+</h1>
+<ol>
 <li>Pendahuluan<li>
 	<ol>
 	1.1. Tujuan<br>
@@ -58,7 +59,9 @@
 		6.2.1. Rinci entiti data 1<br>
 		6.2.2. Rinci entiti data 2<br>
 		</ol>
-	</b>
+</ol>
+</ol>
+</b>
 
 
 
