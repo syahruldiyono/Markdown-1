@@ -119,7 +119,7 @@
 		<li>Startvation</li>
 	  </ol> 
  	Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, yaitu:<br> 
-		<li>Proses-proses Saling Tidak Peduli (Independen). 
+		<li>Proses-proses Saling Tidak Peduli (Independen).
 		Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.</li>
 		<li>Proses-proses Saling Mempedulikan Secara Tidak Langsung. Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.<li><br> 
 		<li>Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br></li> 
@@ -137,7 +137,6 @@
 			d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan.<br>
 		  </ol>
 </ol>
- 
 	</ol>
 </ol>
 
