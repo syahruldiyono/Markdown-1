@@ -137,6 +137,6 @@
 			d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan.<br>
 		  </ol>
 </ol>
-	</ol>
+</ol>
 </ol>
 
