@@ -152,9 +152,9 @@
 			</oL>
 			Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut ini : <br>
 			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
-			<img src="dekomposisi_data.png" align="center" width="150" height="150"><br>
+			<img src="dekomposisi_data.JPG" align="center" width="150" height="150"><br>
 			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
-			<img src="hitung_proyek.jpg" width="150" height="150">
+			<img src="hitung_proyek.JPG" width="150" height="150">
 			<br>
 			<center>Tabel 2 Hitung Proyek </center>
 		</ol>
