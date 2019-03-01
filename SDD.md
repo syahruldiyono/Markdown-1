@@ -154,7 +154,7 @@
 			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
 		<ol>
 			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
-			| ----------- 	 | ---- 	   | ----------------------  							|
+			| -------------  | ----------- | -------------------------------------------------- |
 			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
 			| Nama  	  	 | varchar(50) | Untuk menyimpan kode Admin 						|
 			| Id  		  	 | int(50)	   | Untuk menyimpan kode 								| 
@@ -170,7 +170,7 @@
 			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
 		<ol>
 			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
-			| ----------- 	 | ---- 	   | ----------------------  							|
+			| ---------------| ----------- | --------------------------------------------------	|
 			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
 			| nama_aplikasi	 | varchar(50) | Nama aplikasi apa yang mau di buat 				|
 			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|
