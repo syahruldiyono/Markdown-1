@@ -152,7 +152,6 @@
 			</oL>
 			Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut ini : <br>
 			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
-		<ol>
 			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
 			| -------------  | ----------- | -------------------------------------------------- |
 			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
@@ -165,10 +164,9 @@
 			| Email 	     | char(50)    | Untuk menyimpan email Admin 						|
 			| alamat 		 | varchar(50) | Untuk menyimpan alamat Admin 						|
 			| hak_akses 	 | varchar(50) | Untuk menyimpan hak akses user atau Admin 			|
+			<br>
 			<center>Tabel 1 Dekomposisi Data </center>
-		</ol>
 			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
-		<ol>
 			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
 			| ---------------| ----------- | --------------------------------------------------	|
 			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
@@ -186,8 +184,8 @@
 			| target_waktu	 | int(50) 	   | Untuk menyimpan target waktu 						|
 			| jumlah 	     | int(50)     | Menyimpan jumlah orang dalam project				|
 			| Cost 			 | int(50)     | Menyimpan harga sebuah project						|
+			<br>
 			<center>Tabel 1 Dekomposisi Data </center>
-		</ol>
 	</ol>
 </ol>
 
