@@ -158,6 +158,7 @@
 			<br>
 			<center>Tabel 2 Hitung Proyek </center>
 		</ol>
+	</ol>
 		<b>
 	<li>Deskripsi ketergantungan (dependency)</li></b>
 	<ol>
