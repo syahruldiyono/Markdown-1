@@ -142,7 +142,53 @@
 				d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan.<br>
 			  </ol>
 		</ol>
-</ol>
+	<b>3.3 Dekomposisi Data</b><br>
+		<ol>
+			Bagian ini akan menjelaskan struktur data. Table yang terbentuk ada 2 (Dua)
+		dengan nama masing masing tablenya adalah sebagai berikut : <br>
+			<oL>
+				<li>Tabel karyawan</li>
+				<li>Tabel hitung_cost</li>
+			</oL>
+			Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut ini : <br>
+			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
+		<ol>
+			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
+			| ----------- 	 | ---- 	   | ----------------------  							|
+			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
+			| Nama  	  	 | varchar(50) | Untuk menyimpan kode Admin 						|
+			| Id  		  	 | int(50)	   | Untuk menyimpan kode 								| 
+			| Password 	  	 | varchar(50) | Untuk menyimpan Password Admin 					|
+			| contac_person  | int(50) 	   | Nomor telepon yang dapat di hubungi 				|
+			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|
+			| kemampuan 	 | varchar(50) | Untuk menyimpan kemampuan yang mengerjakan project |
+			| Email 	     | char(50)    | Untuk menyimpan email Admin 						|
+			| alamat 		 | varchar(50) | Untuk menyimpan alamat Admin 						|
+			| hak_akses 	 | varchar(50) | Untuk menyimpan hak akses user atau Admin 			|
+			<center>Tabel 1 Dekomposisi Data </center>
+		</ol>
+			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
+		<ol>
+			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
+			| ----------- 	 | ---- 	   | ----------------------  							|
+			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
+			| nama_aplikasi	 | varchar(50) | Nama aplikasi apa yang mau di buat 				|
+			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|
+			| nama_klient  	 | varchar(50) | Untuk menyimpan nama Client 						|
+			| Untuk 		 | varchar(50) | Untuk menyimpan kearah mana aplikasi ini di buat 	|
+			| contac_person  | char(50)	   | Nomor telepon yang dapat di hubungi 				|
+			| Email 		 | char(50)    | Untuk menyimpan email admin 						|
+			| halaman 		 | int(50) 	   | Menyimpan nilai halaman 							|
+			| loc_halaman 	 | int(50)     | Menyimpan nilai loc halaman 						|
+			| komponen 		 | int(50)     | Menyimpan nilai komponen. 							|
+			| Efroth 		 | int(50)     | Menyimpan nilai eforth.							|
+			| loc_total 	 | int(50)	   | Menyimpan nilai loc total 							|
+			| target_waktu	 | int(50) 	   | Untuk menyimpan target waktu 						|
+			| jumlah 	     | int(50)     | Menyimpan jumlah orang dalam project				|
+			| Cost 			 | int(50)     | Menyimpan harga sebuah project						|
+			<center>Tabel 1 Dekomposisi Data </center>
+		</ol>
+	</ol>
 </ol>
 
 
