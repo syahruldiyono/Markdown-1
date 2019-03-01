@@ -152,40 +152,11 @@
 			</oL>
 			Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut ini : <br>
 			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
-| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  	  |
-| -------------  | :---------:| :---------------------  |
-| No    	  	 | Int(20)     | Untuk menyimpan no urut 	  |
-| Nama  	  	 | varchar(50) | Untuk menyimpan kode Admin   |
-| Id  		  	 | int(50)	   | Untuk menyimpan kode 		  | 
-| Password 	  	 | varchar(50) | Untuk menyimpan Password Admin| 
-| contac_person  | int(50) 	   | Nomor telepon yang dapatdihubungi| 				
-| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					
-| kemampuan 	 | varchar(50) | Untuk menyimpan kemampuan yang mengerjakan project |
-| Email 	     | char(50)    | Untuk menyimpan email Admin 						
-| alamat 		 | varchar(50) | Untuk menyimpan alamat Admin 	
-| hak_akses 	 | varchar(50) | Untuk menyimpan hak akses user atau Admin 			|
-			<br>
-			<center>Tabel 1 Dekomposisi Data </center> <br>
+			<img src="dekomposisi_data.png" width="150" height="150"><br>
 			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
-| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
-| ---------------| :-----------: | :------------------	|
-| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
-| nama_aplikasi	 | varchar(50) | Nama aplikasi apa yang mau di buat 				|
-| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|
-| nama_klient  	 | varchar(50) | Untuk menyimpan nama Client 						|
-| Untuk 		 | varchar(50) | Untuk menyimpan kearah mana aplikasi ini di buat 	|
-| contac_person  | char(50)	   | Nomor telepon yang dapat di hubungi 				|
-| Email 		 | char(50)    | Untuk menyimpan email admin 						|
-| halaman 		 | int(50) 	   | Menyimpan nilai halaman 							|
-| loc_halaman 	 | int(50)     | Menyimpan nilai loc halaman 						|
-| komponen 		 | int(50)     | Menyimpan nilai komponen. 							|
-| Efroth 		 | int(50)     | Menyimpan nilai eforth.							|
-| loc_total 	 | int(50)	   | Menyimpan nilai loc total 							|
-| target_waktu	 | int(50) 	   | Untuk menyimpan target waktu 						|
-| jumlah 	     | int(50)     | Menyimpan jumlah orang dalam project				|
-| Cost 			 | int(50)     | Menyimpan harga sebuah project						|
+			<img src="hitung_proyek.png" width="150" height="150">
 			<br>
-			<center>Tabel 1 Dekomposisi Data </center>
+			<center>Tabel 2 Hitung Proyek </center>
 	</ol>
 </ol>
 
