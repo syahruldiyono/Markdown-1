@@ -68,21 +68,22 @@
 	<li>Pendahuluan</li>
 	</b>
 		<ol>
-			 <b>III.1.1 Tujuan</b><br>
+			 <b>1.1 Tujuan</b><br>
 			 <ol>
 			 	Tujuan dalam membuat dokumen SSD(Software Design Description) ini adalah untuk menjelaskan langkh-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada aplikasi simulasi management proyek RPL dan juga memberi definisi kebutuhan untuk sistem spesifikasi kebutuhan fungsional.<br>
 			 </ol>
-			 <b>III.1.2 Ruang Lingkup</b><br>
+			 <b>1.2 Ruang Lingkup</b><br>
 			 <ol>
 			 	Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management proyek RPL berbasis dekstop, ruang lingkup system ini mencakup informasi mengenai antarmuka dari system tersebut.<br>
 			 </ol>
-			 <b>III.1.3 Definisi, Akronim, dan Singkatan</b><br>
+			 <b>1.3 Definisi, Akronim, dan Singkatan</b><br>
 			 <ol>
 			 	 Dalam penulisan dokumen pembuatan projek ini yang mungkin akan sulit di pahami berikut ini:<br>
 			 	 SSD artinya Software Design Description<br>
 			 	 OOP artinya Object Oriented Programmung<br>
 			 	 User artinya untuk pengguna system<br>
 			 </ol>
+		</ol>
 	<b>
 	<li>Referensi</li>
 	</b>
@@ -94,7 +95,7 @@
 	<li>Deskripsi Dekomposisi</li>
 	</b>
 	<ol>
-		<b>III.3.1 Dekomposisi Modul<b><br>
+		<b>3.1 Dekomposisi Modul<b><br>
 		<ol>
 			Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut: <br>
 			<li>Pencatatan Hak Akses</li>
@@ -108,8 +109,7 @@
 			<ul>Sistem dapat memproses secara otomatis jumlah orang dalam sebuah project</ul>
 			<ul>Sistem dapat memproses secara otomatis biaya dalam sebuah aplikasi yang akan di buat</ul>
 		</ol>
-		<ol>
-	<b>III.3.2 Dekomposisi Proses Konkuren</b><br> 
+	<b>3.2 Dekomposisi Proses Konkuren</b><br> 
 	<ol> Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat bersamaan. Konkurensi merupakan landasan umum perancangan sistem operasi. 
 	Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama. Pada proses-proses konkuren yang berinteraksi mempunyai beberapa masalah yang harus diselesaikan:<br></ol>
 	  <ol> 
@@ -118,25 +118,27 @@
 		<li>Deadlock</li> 
 		<li>Startvation</li>
 	  </ol> 
- 	Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, yaitu:<br> 
-		<li>Proses-proses Saling Tidak Peduli (Independen).
-		Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.</li>
-		<li>Proses-proses Saling Mempedulikan Secara Tidak Langsung. Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.<li><br> 
-		<li>Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br></li> 
-		  <ol>
-			a. Sistem operasi harus mengetahui proses-proses yang aktif<br>
-			b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, 
-			antara lain:<br>
+ 			Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, yaitu: <br>
+ 		<ol> 
+			<li>Proses-proses Saling Tidak Peduli (Independen).
+			Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.</li>
+			<li>Proses-proses Saling Mempedulikan Secara Tidak Langsung. Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.</li><br> 
+			<li>Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br></li> 
 			  <ol>
-				<li>Waktu pemroses.</li>
-				<li>Memori.</li> 
-				<li>Berkas-berkas.</li> 
-				<li>Perangkat I/O</li>
+				a. Sistem operasi harus mengetahui proses-proses yang aktif<br>
+				b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, 
+				antara lain:<br>
+				  <ol>
+					<li>Waktu pemroses.</li>
+					<li>Memori.</li> 
+					<li>Berkas-berkas.</li> 
+					<li>Perangkat I/O</li>
+				  </ol>
+				c. Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses lain.<br>
+				d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan.<br>
 			  </ol>
-			c. Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses lain.<br>
-			d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan.<br>
-		  </ol>
+		</ol>
 </ol>
 </ol>
-</ol>
+
 
