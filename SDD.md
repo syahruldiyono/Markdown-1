@@ -152,33 +152,43 @@
 			</oL>
 			Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut ini : <br>
 			Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini dapat mengolah sebuah aplikasi dengan penuh seperti mengedit, simpan, hapus dan update. <br>
-			| Header k-1 | Header k-2 | Header k-3 |
-| ----------- | :---------: | ----------: |
-| Isi 1 - 1 | Isi 2 - 1 | Isi 3 - 1 |
-| Isi 1 - 2 | Isi 2 - 2 | Isi 3 - 2 |
-| Isi 1 - 3 | Isi 2 - 3 | Isi 3 - 3 |
+		<ol>
+			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|<br>
+			| -------------  | ----------- | -------------------------------------------------- |<br>
+			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|<br>
+			| Nama  	  	 | varchar(50) | Untuk menyimpan kode Admin 						|<br>
+			| Id  		  	 | int(50)	   | Untuk menyimpan kode 								|<br>
+			| Password 	  	 | varchar(50) | Untuk menyimpan Password Admin 					|<br>
+			| contac_person  | int(50) 	   | Nomor telepon yang dapat di hubungi 				|<br>
+			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|<br>
+			| kemampuan 	 | varchar(50) | Untuk menyimpan kemampuan yang mengerjakan project |<br>
+			| Email 	     | char(50)    | Untuk menyimpan email Admin 						|<br>
+			| alamat 		 | varchar(50) | Untuk menyimpan alamat Admin 						|<br>
+			| hak_akses 	 | varchar(50) | Untuk menyimpan hak akses user atau Admin 			|<br>
+		</ol>
 			<br>
 			<center>Tabel 1 Dekomposisi Data </center> <br>
 			Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi.<br>
-			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|
-			| ---------------| :---------: | -------------------------------------------------:	|
-			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|
-			| nama_aplikasi	 | varchar(50) | Nama aplikasi apa yang mau di buat 				|
-			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|
-			| nama_klient  	 | varchar(50) | Untuk menyimpan nama Client 						|
-			| Untuk 		 | varchar(50) | Untuk menyimpan kearah mana aplikasi ini di buat 	|
-			| contac_person  | char(50)	   | Nomor telepon yang dapat di hubungi 				|
-			| Email 		 | char(50)    | Untuk menyimpan email admin 						|
-			| halaman 		 | int(50) 	   | Menyimpan nilai halaman 							|
-			| loc_halaman 	 | int(50)     | Menyimpan nilai loc halaman 						|
-			| komponen 		 | int(50)     | Menyimpan nilai komponen. 							|
-			| Efroth 		 | int(50)     | Menyimpan nilai eforth.							|
-			| loc_total 	 | int(50)	   | Menyimpan nilai loc total 							|
-			| target_waktu	 | int(50) 	   | Untuk menyimpan target waktu 						|
-			| jumlah 	     | int(50)     | Menyimpan jumlah orang dalam project				|
-			| Cost 			 | int(50)     | Menyimpan harga sebuah project						|
-			<br>
-			<center>Tabel 1 Dekomposisi Data </center>
+		<ol>
+			| Nama Field  	 | Tipe 	   | Keterangan Untuk Field  							|<br>
+			| ---------------| ----------- | --------------------------------------------------	|<br>
+			| No    	  	 | Int(20)     | Untuk menyimpan no urut 							|<br>
+			| nama_aplikasi	 | varchar(50) | Nama aplikasi apa yang mau di buat 				|<br>
+			| Kategori 		 | varchar(50) | Untuk menyimpan kategori project					|<br>
+			| nama_klient  	 | varchar(50) | Untuk menyimpan nama Client 						|<br>
+			| Untuk 		 | varchar(50) | Untuk menyimpan kearah mana aplikasi ini di buat 	|<br>
+			| contac_person  | char(50)	   | Nomor telepon yang dapat di hubungi 				|<br>
+			| Email 		 | char(50)    | Untuk menyimpan email admin 						|<br>
+			| halaman 		 | int(50) 	   | Menyimpan nilai halaman 							|<br>
+			| loc_halaman 	 | int(50)     | Menyimpan nilai loc halaman 						|<br>
+			| komponen 		 | int(50)     | Menyimpan nilai komponen. 							|<br>
+			| Efroth 		 | int(50)     | Menyimpan nilai eforth.							|<br>
+			| loc_total 	 | int(50)	   | Menyimpan nilai loc total 							|<br>
+			| target_waktu	 | int(50) 	   | Untuk menyimpan target waktu 						|<br>
+			| jumlah 	     | int(50)     | Menyimpan jumlah orang dalam project				|<br>
+			| Cost 			 | int(50)     | Menyimpan harga sebuah project						|<br>
+		</ol>
+			<center>Tabel 1 Dekomposisi Data </center><br>
 	</ol>
 </ol>
 
